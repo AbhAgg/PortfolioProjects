@@ -137,6 +137,7 @@ Select *, (rolling_vacs/Population)*100
 From Popu_VS_Vac
 
 
+-- Another Method by creating a TEMPORARY TABLE
 
 -- Another method can be to create a separate table > then insert the data into it > Apply calculations
 
